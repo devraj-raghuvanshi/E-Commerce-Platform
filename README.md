@@ -34,6 +34,5 @@ Group Members:
 - Mihir Gangrade - IT59
 
 Submitted To:
-- Dr. Lalit Purohit
 - Mr. Upendra Singh
 
