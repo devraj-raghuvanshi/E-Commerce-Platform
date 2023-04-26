@@ -1,6 +1,6 @@
 # React-Native-Ecommerce
 
-A template for a ecommerce mobile app using React Native.
+A template for an ecommerce mobile app using React Native.
 
 ## Features
 
