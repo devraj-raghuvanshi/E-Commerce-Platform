@@ -28,19 +28,6 @@ A template for a ecommerce mobile app using React Native.
 
 This project is a simplified implementation of a shopping system, the project aims to provide the basic features that are expected to be found in a mobile e-commerce application where users can purchase and sell products. To navigate through the app, users have to authenticate themselves. Once logged-in, users can scroll through the list of available products, add different products to the cart, and make orders. Users can also add, edit, remove their own products into the main store.
 
-Databases
-Most data in this project (products, orders, users) is stored in Firebase Realtime Database. Some other user-specific data (auth-token, favorite products) are stored locally in the device using AsyncStorage.
-
-Navigation
-All navigation in this project is built with React Navigation v5.
-
-Built with:
-- React Native v0.64
-- React Navigation v5
-- Firebase Auth
-- Firebase Realtime Database
-- React Native Reanimated v2
-
 Group Members:
 - Kashish Purswani - IT51
 - Devraj Raghuvanshi - IT33
